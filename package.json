@@ -1,0 +1,1 @@
+{"name": "zerosec-dashboard", "version": "1.0.0", "description": "A web dashboard for ZeroSec project.", "main": "index.js", "scripts": {"start": "node index.js"}, "dependencies": {"express": "^4.17.1"}, "devDependencies": {}, "author": "Sk9R00t", "license": "ISC"}
